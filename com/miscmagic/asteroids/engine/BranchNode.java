@@ -12,7 +12,7 @@ public class BranchNode implements Node {
 	public float getNodescale() {
 		return nodescale;
 	}
-
+// comment
 	public void setNodescale(float nodescale) {
 		this.nodescale = nodescale;
 	}
